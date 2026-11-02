@@ -1,7 +1,3 @@
-# RoamLog
-A mobile-first Progressive Web App travel journal for capturing and storing travel memories offline.
-
-
 # RoamLog 📍
 
 **A personal travel journal Progressive Web Application (PWA).**
